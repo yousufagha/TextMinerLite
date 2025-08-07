@@ -1,6 +1,6 @@
 # 🧠 Web Article ETL & Text Analysis using Python
 
-This project showcases a production-style ETL pipeline in Python for real-world text data scraping, preprocessing, and analysis — a foundational step for any machine learning or NLP workflow.
+This project showcases a production-style ETL pipeline in Python for real-world text data scraping, preprocessing, and analysis, a foundational step for any machine learning or NLP workflow.
 
 ---
 
